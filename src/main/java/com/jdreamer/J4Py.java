@@ -1,4 +1,4 @@
-package com.asurion;
+package com.jdreamer;
 
 import py4j.GatewayServer;
 

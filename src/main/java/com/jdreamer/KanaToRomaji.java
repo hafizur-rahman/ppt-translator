@@ -1,4 +1,4 @@
-package com.asurion;
+package com.jdreamer;
 
 import java.util.HashMap;
 import java.util.Map;

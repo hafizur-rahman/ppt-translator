@@ -80,7 +80,7 @@
             <configuration>
               <transformers>
                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                  <mainClass>com.asurion.J4Py</mainClass>
+                  <mainClass>com.jdreamer.J4Py</mainClass>
                 </transformer>
               </transformers>
             </configuration>

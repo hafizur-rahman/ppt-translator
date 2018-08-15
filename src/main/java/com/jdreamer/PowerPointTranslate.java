@@ -1,4 +1,4 @@
-package com.asurion;
+package com.jdreamer;
 
 import net.xdevelop.jpclient.PyResult;
 import net.xdevelop.jpclient.PyServeContext;
